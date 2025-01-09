@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.JS , CouchbaseDB**
 
-- 👨‍💻 All of my projects are available at [hrishabh-portfolio.netlify.app](hrishabh-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [hrishabh-portfolio.netlify.app](https://hrishabh-portfolio.netlify.app/)
 
 - 💬 Ask me about **Android App ,Kotlin, C++**
 
