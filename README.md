@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [CampusNest](https://campusnest-bbwd.onrender.com)
 
-- 🌱 I’m currently learning **Next.JS , CouchbaseDB**
+- 🌱 I’m currently learning **ANGULAR , SPRING-BOOT**
 
 - 👨‍💻 All of my projects are available at [hrishabh-portfolio.netlify.app](https://hrishabh-portfolio.netlify.app/)
 
-- 💬 Ask me about **Android App ,Kotlin, C++**
+- 💬 Ask me about **REACT-JS , NEXT.JS, C++**
 
 - 📫 How to reach me **hrishabhgautam480@gmail.com**
 
