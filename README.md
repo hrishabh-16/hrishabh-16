@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Pixelligence](https://pixelligence.vercel.app/)
 
-- 🌱 I’m currently learning **ANGULAR , SPRING-BOOT**
+- 🌱 I’m currently learning **ANGULAR , SPRING-BOOT , TypeScript**
 
 - 👨‍💻 All of my projects are available at [hrishabh-portfolio.netlify.app](https://hrishabh-portfolio.netlify.app/)
 
-- 💬 Ask me about **REACT-JS , NEXT.JS, C++**
+- 💬 Ask me about **REACT-JS , NEXT.JS, C++, JAVA**
 
 - 📫 How to reach me **hrishabhgautam480@gmail.com**
 
