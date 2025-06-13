@@ -27,16 +27,33 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrishabh-16&show_icons=true&theme=radical" alt="hrishabh-16" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishabh-16&show_icons=true&locale=en&layout=compact&theme=radical" alt="hrishabh-16" width="45%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hrishabh-16&show_icons=true&theme=radical&bg_color=0d1117&text_color=ffffff&title_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hrishabh-16&show_icons=true&theme=default&bg_color=ffffff&text_color=000000&title_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=hrishabh-16&show_icons=true&theme=radical&bg_color=0d1117&text_color=ffffff&title_color=ffffff" alt="hrishabh-16" width="45%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hrishabh-16&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&text_color=ffffff&title_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hrishabh-16&show_icons=true&locale=en&layout=compact&theme=default&bg_color=ffffff&text_color=000000&title_color=000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishabh-16&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&text_color=ffffff&title_color=ffffff" alt="hrishabh-16" width="45%"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh-16&theme=radical" alt="hrishabh-16" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh-16&theme=radical&background=0d1117&dates=ffffff&currStreakLabel=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh-16&theme=default&background=ffffff&dates=000000&currStreakLabel=000000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabh-16&theme=radical&background=0d1117&dates=ffffff&currStreakLabel=ffffff" alt="hrishabh-16" width="90%"/>
+  </picture>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrishabh-16&theme=radical&no-frame=true&row=1&margin-w=15" alt="hrishabh-16" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hrishabh-16&theme=onedark&no-frame=true&row=1&margin-w=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hrishabh-16&theme=flat&no-frame=true&row=1&margin-w=15&bg_color=ffffff&title_color=000000">
+    <img src="https://github-profile-trophy.vercel.app/?username=hrishabh-16&theme=onedark&no-frame=true&row=1&margin-w=15" alt="hrishabh-16"/>
+  </picture>
 </div>
+
